@@ -1,0 +1,70 @@
+Human Computer Interaction(HCI)- The study of how humans give input to and receive output from a computer.
+accessibility- The extent to which a computer interface can be used by all people or is limited by individual characteristics.
+ergonomic- Design of tools that carefully considers the human body with emphasis on health concerns and ease of use.
+
+step 3: Can you think of other methods of communication between humans and computers?
+-sounds and colors
+
+step 4: What guideline would make a web page accessible to a deaf person?
+-well an image really
+
+step 5: what interface could allow us to access the whole spectrum?
+-well if we cant see this, then i guess a file of info or something
+
+step 6: Think of a website, an app, or a program that you found so frustrating that you chose not to use it. Do you have advice about how it should have been designed?
+-bigger text, more info, organization
+
+step 7:What are some human-computer interface methods that are currently in use today? With your partner in your team of two, list at least ten ways you interact with technology in your daily life.
+-sense,touch, mouse, keyboard
+-[touchscreen,mouse,keyboard,sound,button,switch,typing]
+
+step 8: [DONE]
+
+step 9:Describe one event named by the other pair of students in your group of four and describe the corresponding event handler named by them.
+- drawing, a app for drawing, signing an online document
+
+step 10: From the examples of human-computer interfaces you've considered so far, which example do you think demonstrate the most creativity on the part of the HCI designers who created it?
+- haptic glove, that is aninteresting way to receive and ouput instructions 
+
+step 11: That is, which interface element is unusable or ineffective for the largest number of people?
+- drawing
+
+step 12: Explain how the interface either fulfills or violates the principle.
+a.Structure: The interface should be organized, putting related elements together.
+- keyboard for this one
+b.Simple: Common tasks should be easy.
+- Mouse for moving is easy 
+c.Visible: Information and options should be easy to find, without the distraction of unnecessary information.
+- touch screen is good
+d.Feedback: User should be informed of actions, changes in state, and errors.
+-buttons not so much
+e.Tolerance: Mistakes should be easy to undo, and reasonable input should be interpreted.
+- A switch is real easy to undo
+f.Reuse: Design should be consistent across components.
+- A sound sensor can only be used with certain components so no
+
+step 13:What were the methods of human-computer interaction before the mouse and GUI?
+- keyboard
+
+step 14: Can you think of another example in society in which an improvement is not adopted because people are accustomed to an existing system?
+-Online reading is much more portable and accessable but we stil prefer paper books
+
+step 15: Brainstorm with your group to identify gestures that could be used to communicate each of the following.
+a.Communicate to the computer as the user that you want to taste an object in the VR.
+- Bring the front hand sensors up to your mouth
+b.Assume your company owns 100 mechanical avatars on Mars. An avatar is usually a user’s representation or presence in a virtual reality, but these are physical avatars in a physical reality that is projected as a virtual reality to the user. Your company’s VR interface allows the user to occupy one Mars-landed mechanical avatar at a time, with the avatar’s motions imitating the user’s, and the user’s experience echoing what she would experience if she were where the avatar is.
+Communicate to the computer that you as the user want to transfer your virtual reality to the persepective of a different Martian avatar.
+-hand up to eyes and swipe
+c. Make up an HCI user story and brainstorm solutions
+-I am a spherical metal ball with gear and rotors and a camera on top kind of like bb8, except the fact that i am the size of a doorknob and i want to return back to my charging port so that i can recharge my batteries how would i do this
+- I just tap a button
+
+step 16:Describe ways in which HCI can provide experiences or abilities to people with disabilities that they would not otherwise be able to have.
+- Lets say someone does not have an arm, they can get an prosthetic. If they were deaf they could have sensors that will vibrte when they hear someone talk to you. 
+
+
+Coclusion
+1. Write an summary 
+- HCI is the future, we here thrive to help devolp systems that can be used around the world. To create UIs that all can use and benefit from, we want to help those who cant do what we can. We want the blind to know what we see, the deaf to know what we hear, the disabled to be free. 
+2. What do you think will be major developments in human-computer interface development in the next ten years?
+- Amazing VR Contact Lenses and mouse gloves for your computer
